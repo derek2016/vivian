@@ -57,7 +57,7 @@
 							<a href="#pricing">Source</a>
 						</li>
 						<li class="scroll">
-							<a href="#contact-us">Contact</a>
+							<a href="tools.php">Tools</a>
 						</li>
 					</ul>
 				</div>
